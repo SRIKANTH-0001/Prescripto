@@ -10,11 +10,11 @@ A full-stack MERN application that simplifies the process of booking doctor appo
 
 i)HomePage:-
 
-<img width="1920" height="1020" alt="New tab - Google Chrome 13-07-2026 07_34_11" src="https://github.com/user-attachments/assets/dfea5774-ed4a-4647-9303-edb4fbd26ca7" />
+<img width="1920" height="1020" alt="New tab - Google Chrome 13-07-2026 07_33_51" src="https://github.com/user-attachments/assets/cc89fd05-531a-4fef-8a16-2c5dba4e0c49" />
 
 ii)Doctors Page:-
 
-<img width="1920" height="1020" alt="New tab - Google Chrome 13-07-2026 07_33_51" src="https://github.com/user-attachments/assets/cc89fd05-531a-4fef-8a16-2c5dba4e0c49" />
+<img width="1920" height="1020" alt="New tab - Google Chrome 13-07-2026 07_34_11" src="https://github.com/user-attachments/assets/dfea5774-ed4a-4647-9303-edb4fbd26ca7" />
 
 iii)About Page
 
